@@ -207,7 +207,7 @@ header {
     width: 46%;
     height: auto;
     min-height: 30rem;
-    padding: 1%;
+    padding: 3%;
     border-radius: 10px;
     z-index: 9;
     -webkit-user-select: none;
@@ -245,7 +245,7 @@ header {
 
 .menu-ul a {
     display: flex;
-    padding: 4%;
+    padding: 3%;
     color: white;
     text-decoration: none;
     width: 50%;
@@ -1314,10 +1314,10 @@ header {
 }
 .menu-ul a {
     width: 44%;
-    margin: 0.8rem auto;
+    margin: 0.9rem auto;
 }
 .menu-icon-sn {
-    margin: 3% 5% 0% 5%;
+    margin: 0% 0% 0% 0%;
 }
 .github{
     display: none;
@@ -1354,10 +1354,10 @@ h4.title-carrera{
     align-items: center;
 }
 .imgSello {
-    top: 36rem;
+    top: 37rem;
     width: 30%;
     height: 14%;
-    left: 62%;
+    left: 64%;
 }
 .text-bienvenida {
     top: 6rem;
@@ -1428,7 +1428,7 @@ h4.title-carrera{
 #certificados h4 {
     height: 30rem;
     font-size: 1.04rem;
-    line-height: 2;
+    line-height: 2.1;
     padding: 2%;
     align-content: center;
 }
@@ -1502,10 +1502,10 @@ header {
 }
 .menu-ul a {
     width: 41%;
-    margin: 0.7rem auto;
+    margin: 0.9rem auto;
 }
 .menu-icon-sn {
-    margin: 3% 3% 0% 3%;
+    margin: 0% 0% 0% 0%;
 }
 .github{
     display: none;
@@ -1534,20 +1534,20 @@ h4.title-carrera{
     padding: 0px 0px 0px 60px;
 }
 .imgPersonal {
-    width: 94%;
+    width: 90%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .imgSello {
-    top: 31rem;
-    width: 27%;
-    height: 16%;
-    left: 65%;
+    top: 33rem;
+    width: 20%;
+    height: 12%;
+    left: 75%;
 }
 .text-bienvenida {
-    top: -18rem;
+    top: 6rem;
     width: auto;
     left: auto;
     font-size: 1.4rem;
@@ -1615,12 +1615,12 @@ h4.title-carrera{
 #certificados h4 {
     height: 22rem;
     font-size: 0.999rem;
-    line-height: 1.55;
+    line-height: 1.8;
     padding: 2%;
     align-content: center;
 }
 .certificado-txt-grande {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
 }
 
 /* TARJETA: CONTACTO */
@@ -1639,10 +1639,10 @@ h4.title-carrera{
     padding: 5% 0 5%;
 }
 .contacto-subir {
-    top: 2rem;
+    top: 3rem;
 }
 .contacto-formulario-p {
-    top: 3rem;
+    top: 4rem;
     font-size: 1rem;
 }
 .contacto-version-txt {
@@ -1689,10 +1689,10 @@ header {
 }
 .menu-ul a {
     width: 39%;
-    margin: 0.7rem auto;
+    margin: 0.9rem auto;
 }
 .menu-icon-sn {
-    margin: 3% 3% 0% 3%;
+    margin: 0% 0% 0% 0%;
 }
 .github{
     display: none;
@@ -1721,7 +1721,7 @@ h4.title-carrera{
     padding: 0px 0px 0px 60px;
 }
 .imgPersonal {
-    width: 94%;
+    width: 80%;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -1731,10 +1731,10 @@ h4.title-carrera{
     top: 30.5rem;
     width: 13%;
     height: 9%;
-    left: 80%;
+    left: 82%;
 }
 .text-bienvenida {
-    top: -20rem;
+    top: 5rem;
     width: auto;
     left: auto;
     font-size: 1.4rem;
@@ -1753,7 +1753,7 @@ h4.title-carrera{
     padding: 2% 0% 1%;
 }
 .resumen-txt {
-    font-size: 0.75rem;
+    font-size: 0.77rem;
 }
 .iconos-txt{
     margin: 1.5%;
@@ -1802,12 +1802,12 @@ h4.title-carrera{
 #certificados h4 {
     height: 18rem;
     font-size: 1rem;
-    line-height: 1.37;
+    line-height: 1.8;
     padding: 2%;
     align-content: center;
 }
 .certificado-txt-grande {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
 }
 
 /* TARJETA: CONTACTO */
@@ -1876,10 +1876,10 @@ header {
 }
 .menu-ul a {
     width: 37%;
-    margin: 0.6rem auto;
+    margin: 0.9rem auto;
 }
 .menu-icon-sn {
-    margin: 3% 3% 0% 3%;
+    margin: 0% 0% 0% 0%;
 }
 .github{
     display: none;
@@ -2013,7 +2013,7 @@ h4.title-carrera{
     top: 5rem;
 }
 .contacto-formulario-p {
-    top: 6rem;
+    top: 7rem;
     font-size: 1.1rem;
 }
 .contacto-version-txt {
@@ -2060,10 +2060,10 @@ header {
 }
 .menu-ul a {
     width: 36%;
-    margin: 0.4rem auto;
+    margin: 0.7rem auto;
 }
 .menu-icon-sn {
-    margin: 3% 3% 0% 3%;
+    margin: 0% 0% 0% 0%;
 }
 .github{
     display: none;
@@ -2246,10 +2246,10 @@ header {
 }
 .menu-ul a {
     width: 34%;
-    margin: 0.2rem auto;
+    margin: 0.5rem auto;
 }
 .menu-icon-sn {
-    margin: 3% 3% 0% 3%;
+    margin: 0% 0% 0% 0%;
 }
 .github{
     display: none;
@@ -2403,7 +2403,7 @@ h4.title-carrera{
 }
 
 
-@media (min-width: 481px) and (max-width: 530px) {
+@media (min-width: 481px) and (max-width: 540px) {
 *,
 *::before,
 *::after {
@@ -2429,10 +2429,10 @@ header {
 }
 .menu-ul a {
     width: 31%;
-    margin: 0.1rem auto;
+    margin: 0.5rem auto;
 }
 .menu-icon-sn {
-    margin: 3% 3% 0% 3%;
+    margin: 0% 0% 0% 0%;
 }
 .github{
     width: 4rem;
@@ -2461,7 +2461,7 @@ h4.title-carrera{
     padding: 0px 0px 0px 60px;
 }
 .imgPersonal {
-    width: 94%;
+    width: 90%;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -2469,7 +2469,7 @@ h4.title-carrera{
 }
 .imgSello {
     top: 43rem;
-    width: 18%;
+    width: 17%;
     height: 11%;
     left: 79%;
 }
@@ -2566,15 +2566,15 @@ h4.title-carrera{
     font-size: 1.2rem;
 }
 .contacto-subir {
-    top: 6rem;
+    top: 5rem;
     font-size: xx-large;
 }
 .contacto-formulario-p {
-    top: 8rem;
+    top: 7rem;
     font-size: 1.1rem;
 }
 .contacto-version-txt {
-    top: 16rem;
+    top: 15em;
     font-size: 0.9rem;
 }
 
@@ -2589,7 +2589,382 @@ h4.title-carrera{
 
 }
 
-@media (min-width: 531px) and (max-width: 767px) {
+
+@media (min-width: 541px) and (max-width: 600px) {
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+header {
+    width: 100%;
+}
+.menu {
+    gap: 0rem;
+    padding: 1% 1% 1% 1%;
+    font-size: 1rem;
+    flex-wrap: wrap;
+}
+.opciones-menu {
+    font-size: 0.95rem;
+}
+.menu-action {
+    top: 4rem;
+    width: 98%;
+    height: auto;
+    
+}
+.menu-ul a {
+    width: 31%;
+    margin: 0.5rem auto;
+}
+.menu-icon-sn {
+    margin: 0% 0% 0% 0%;
+    /*width: 5%;*/
+}
+.github{
+    width: 4rem;
+}
+#toggleTheme{
+    width: 12%;
+}
+
+/* FUENTES */
+h2 {
+    font-size: 1.5em;
+}
+
+/* TARJETA: NOMBRE */
+#nombre {
+    width: 97.2%;
+    height: auto;
+    min-height: 49rem;
+    top: /*-4.5rem*/ -4.7rem;
+    margin: 0 auto;
+}
+.title-nombre{
+    padding: 2% 30% 0% 4%;
+}
+h4.title-carrera{
+    padding: 0px 0px 0px 60px;
+}
+.imgPersonal {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgSello {
+    top: 42rem;
+    width: 19%;
+    height: 13%;
+    left: 76%;
+}
+.text-bienvenida {
+    font-size: 1.5rem;
+    top: 5rem;
+    width: auto;
+    left: auto;
+}
+
+/* TARJETA: ACERCA */
+#acerca{
+    width: 97.2%;
+    height: auto;
+    min-height: 51rem;
+    top: -2rem;
+    margin: 0 auto;
+    scroll-margin-top: 4.5rem;
+}
+.primer-linea-txt{
+    padding: 2% 0% 1%;
+}
+.resumen-txt {
+    font-size: 1.11rem;
+}
+.iconos-txt{
+    margin: 1.5%;
+}
+.fa-file-txt, .fa-git-txt, .fa-in-txt {
+    font-size: 1.8rem;
+}
+.iconos-linea-txt {
+    padding: 4% 0 3% 0;
+}
+
+/* TARJETA: PROYECTOS */
+.tarjeta{
+    width: 97.2%;
+    height: auto;
+    min-height: 51rem;
+    top: 0rem;
+    margin: 0 auto;
+}
+#proyectos{
+    scroll-margin-top: 4.5rem;
+}
+#proyectos h3{
+    font-size: 0.82em;
+    padding: 3% 0 7% 0;
+}
+.tooltip {
+    display: none;
+}
+
+/* TARJETA: CERTIFICADOS */
+#certificados {
+    width: 97.2%;
+    height: auto;
+    min-height: 51rem;
+    top: 2rem;
+    margin: 0 auto;
+    scroll-margin-top: 4.5rem;
+}
+#certificados img{
+    height: 14rem;
+}
+#certificados img:hover {
+    width: 285px;
+}
+#certificados h4 {
+    height: 30rem;
+    font-size: 1.2rem;
+    line-height: 2;
+    padding: 2%;
+    align-content: center;
+}
+.certificado-txt-grande {
+    font-size: 1.8rem;
+}
+
+/* TARJETA: CONTACTO */
+#contacto {
+    width: 97.2%;
+    height: auto;
+    min-height: 44rem;
+    top: 4rem;
+    margin: 0 auto;
+    scroll-margin-top: 4.5rem;
+}
+#contacto h4{
+    padding: 10px 0 20px;
+}
+.fila-icons{
+    padding: 15% 0 15%;
+}
+.link-fila-icons {
+    font-size: 1.2rem;
+}
+.contacto-subir {
+    top: 5rem;
+    font-size: xx-large;
+}
+.contacto-formulario-p {
+    top: 6rem;
+    font-size: 1.1rem;
+}
+.contacto-version-txt {
+    top: 12rem;
+    font-size: 0.9rem;
+}
+
+/* TARJETA: PIE DE PÁGINA */
+.pie-pagina {
+    width: 97.2%;
+    height: auto;
+    top: /*6*/5.8rem;
+    margin: 0 auto;
+    margin-bottom: 8rem;
+}
+}
+
+@media (min-width: 601px) and (max-width: 767px) {
+    *,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+header {
+    width: 100%;
+}
+.menu {
+    gap: 0rem;
+    padding: 1% 1% 1% 1%;
+    font-size: 1rem;
+    flex-wrap: wrap;
+}
+.opciones-menu {
+    font-size: 0.95rem;
+}
+.menu-action {
+    top: 4.8rem;
+    width: 98%;
+    height: auto;
+    
+}
+.menu-ul a {
+    width: 23%;
+    margin: 0.5rem auto;
+}
+.menu-icon-sn {
+    margin: 0% 0% 0% 0%;
+}
+.github{
+    width: 4rem;
+}
+#toggleTheme{
+    width: 12%;
+}
+
+/* FUENTES */
+h2 {
+    font-size: 1.5em;
+}
+
+/* TARJETA: NOMBRE */
+#nombre {
+    width: 97.2%;
+    height: auto;
+    min-height: 49rem;
+    top: /*-4.5rem*/ -4.7rem;
+    margin: 0 auto;
+}
+.title-nombre{
+    padding: 2% 30% 0% 4%;
+}
+h4.title-carrera{
+    padding: 0px 0px 0px 60px;
+}
+.imgPersonal {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgSello {
+    top: 42rem;
+    width: 13%;
+    height: 11%;
+    left: 82%;
+}
+.text-bienvenida {
+    font-size: 2rem;
+    top: 5rem;
+    width: auto;
+    left: auto;
+}
+
+/* TARJETA: ACERCA */
+#acerca{
+    width: 97.2%;
+    height: auto;
+    min-height: 51rem;
+    top: -2rem;
+    margin: 0 auto;
+    scroll-margin-top: 4.5rem;
+}
+.primer-linea-txt{
+    padding: 2% 0% 1%;
+}
+.resumen-txt {
+    font-size: 1.2rem;
+}
+.iconos-txt{
+    margin: 1.5%;
+}
+.fa-file-txt, .fa-git-txt, .fa-in-txt {
+    font-size: 1.8rem;
+}
+.iconos-linea-txt {
+    padding: 4% 0 3% 0;
+}
+
+/* TARJETA: PROYECTOS */
+.tarjeta{
+    width: 97.2%;
+    height: auto;
+    min-height: 51rem;
+    top: 0rem;
+    margin: 0 auto;
+}
+#proyectos{
+    scroll-margin-top: 4.5rem;
+}
+#proyectos h3{
+    font-size: 0.91em;
+    padding: 3% 0 7% 0;
+}
+.tooltip {
+    display: none;
+}
+
+/* TARJETA: CERTIFICADOS */
+#certificados {
+    width: 97.2%;
+    height: auto;
+    min-height: 51rem;
+    top: 2rem;
+    margin: 0 auto;
+    scroll-margin-top: 4.5rem;
+}
+#certificados img{
+    height: 14rem;
+}
+#certificados img:hover {
+    width: 285px;
+}
+#certificados h4 {
+    height: 30rem;
+    font-size: 1.2rem;
+    line-height: 2;
+    padding: 2%;
+    align-content: center;
+}
+.certificado-txt-grande {
+    font-size: 1.9rem;
+}
+
+/* TARJETA: CONTACTO */
+#contacto {
+    width: 97.2%;
+    height: auto;
+    min-height: 44rem;
+    top: 4rem;
+    margin: 0 auto;
+    scroll-margin-top: 4.5rem;
+}
+#contacto h4{
+    padding: 10px 0 20px;
+}
+.fila-icons{
+    padding: 15% 0 15%;
+}
+.link-fila-icons {
+    font-size: 1.3rem;
+}
+.contacto-subir {
+    top: 3rem;
+    font-size: xx-large;
+}
+.contacto-formulario-p {
+    top: 5rem;
+    font-size: 1.1rem;
+}
+.contacto-version-txt {
+    top: 10rem;
+    font-size: 0.9rem;
+}
+
+/* TARJETA: PIE DE PÁGINA */
+.pie-pagina {
+    width: 97.2%;
+    height: auto;
+    top: /*6*/5.8rem;
+    margin: 0 auto;
+    margin-bottom: 8rem;
+}
 }
 
 /* Tablets (768px <= width < 1024px) */
