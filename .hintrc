@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "animation-timeline",
+          "animation-range",
+          "animation-timeline: view()",
+          "scrollbar-width",
+          "scrollbar-width: none"
+        ]
+      }
+    ]
+  }
+}
