@@ -20,11 +20,11 @@
 
 ## 📖 ¿De qué trata?
 
-Este repositorio contiene mi **portafolio web personal**, creado para presentar mi perfil como estudiante de **Ingeniería en Sistemas Computacionales**, mis habilidades de desarrollo y una selección de proyectos académicos y personales.
+Este repositorio contiene mi **portafolio web personal**, creado para presentar mi perfil como **Ingeniero en Sistemas Computacionales**, mis habilidades de desarrollo y una selección de proyectos académicos y personales.
 
 El sitio integra en una sola experiencia las secciones de presentación, información personal, proyectos, certificaciones y contacto. Su diseño utiliza navegación fija, menú desplegable, animaciones CSS, tarjetas visuales, carrusel de certificados, cambio de tema y enlaces a repositorios y demostraciones externas.
 
-Es una aplicación web estática: no utiliza backend, base de datos ni proceso de compilación. Puede abrirse directamente en un navegador o publicarse mediante GitHub Pages.
+Es una aplicación web estática: no utiliza backend, base de datos ni proceso de compilación. Puede abrirse directamente en un navegador y es publicado mediante GitHub Pages.
 
 ## ✨ Características principales
 
@@ -257,11 +257,11 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Consulta [LICENSE](LICENSE
 **Mario Sierra Neri**
 
 - GitHub: [@MarioSi3ri](https://github.com/MarioSi3ri)
-- LinkedIn: [Mario Sierra Neri](https://mx.linkedin.com/in/mario-sierra-neri)
+- LinkedIn: [Mario Sierra Neri](https://mx.linkedin.com/in/mario-sn)
 - CV: [Descargar CV](public/documents/cv/CV_Mario_Sierra_Neri_EN.pdf)
 
 ---
 
 <p align="center">
-  Hecho con HTML, CSS, JavaScript, café y creatividad.
+  Hecho con HTML, CSS, JavaScript, café y creatividad. ✨
 </p>
